@@ -1,6 +1,4 @@
 # SCT_SD_4
-
-# SCT_SD_4
 # Tablet Product Scraper
 
 This Python project scrapes tablet product data (name, price, and rating) from:
